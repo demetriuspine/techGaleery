@@ -17,3 +17,52 @@
   width: 25px;
   margin-left: 10px;
 }
+
+.heading h1, h3 {
+  color: white;
+}
+
+.heading h3 {
+  text-decoration: underline;
+}
+
+.heading {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.title-section {
+  display: flex;
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.img-container {
+  background-color: aliceblue;
+  padding: 1%;
+  border-radius: 15%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+}
+
+.first-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.second-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
